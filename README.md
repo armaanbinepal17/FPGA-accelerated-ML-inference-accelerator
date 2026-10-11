@@ -1,7 +1,7 @@
 # FPGA-accelerated-ML-inference-accelerator
 implementing a custom inference accelerator in the FPGA fabric
 
-Status: In Progress (September 2026, targeting completion ~April 2027)
+
 
 Overview
 
